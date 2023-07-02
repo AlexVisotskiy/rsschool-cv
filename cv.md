@@ -40,6 +40,13 @@ function highAndLow(numbers){
     return `${sorted[sorted.length - 1]} ${sorted[0]}`;
 }
 `
+*****
+
+## My projects
+
+
+1. [Car from USA](https://github.com/AlexVisotskiy/car-from-USA)
+2. [Relvise](https://github.com/AlexVisotskiy/relvise)
 
 
 
