@@ -47,6 +47,23 @@ function highAndLow(numbers){
 
 1. [Car from USA](https://github.com/AlexVisotskiy/car-from-USA)
 2. [Relvise](https://github.com/AlexVisotskiy/relvise)
+*****
+
+## Education
+
+* Sevastopol National Technical University
+* MathHub intensive
+* Netology courses: "Frontend-developer from 0 to middle" in process
+* Self-education in youtube([Freelancer](https://www.youtube.com/@FreelancerLifeStyle))
+*****
+
+## Languages
+
+
+* Russian(native)
+* Ukrainian(native)
+* English(B1, B2 in process)
+******
 
 
 
