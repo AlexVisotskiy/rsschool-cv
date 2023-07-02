@@ -1,12 +1,12 @@
 ## Alexander Visotskiy
 
-*****
+=====
 
 ## Contact Information:
 * **Phone:** +7 978-870-79-13
 * **E-mail:** faetonfotovis@gmail.com
 * **Git-hub:** https://github.com/AlexVisotskiy
-*****
+=====
 
 ## About Me
 
@@ -16,7 +16,8 @@ I am 32 years old, I work as a sales representative in a distribution company. I
 * quick learning
 * stress resistance
 * firendly
-*****
+
+=====
 
 ## Skills
 
@@ -24,7 +25,7 @@ I am 32 years old, I work as a sales representative in a distribution company. I
 * CSS
 * JavaScript (Basics)
 * Git, GitHub
-*****
+=====
 
 ## Code Example
 
@@ -40,14 +41,14 @@ function highAndLow(numbers){
     return `${sorted[sorted.length - 1]} ${sorted[0]}`;
 }
 `
-*****
+=====
 
 ## My projects
 
 
 1. [Car from USA](https://github.com/AlexVisotskiy/car-from-USA)
 2. [Relvise](https://github.com/AlexVisotskiy/relvise)
-*****
+=====
 
 ## Education
 
@@ -55,7 +56,7 @@ function highAndLow(numbers){
 * MathHub intensive
 * Netology courses: "Frontend-developer from 0 to middle" in process
 * Self-education in youtube([Freelancer](https://www.youtube.com/@FreelancerLifeStyle))
-*****
+=====
 
 ## Languages
 
@@ -63,7 +64,7 @@ function highAndLow(numbers){
 * Russian(native)
 * Ukrainian(native)
 * English(B1, B2 in process)
-******
+=====
 
 
 
