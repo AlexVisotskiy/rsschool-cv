@@ -1,2 +1,2 @@
 https://AlexVisotskiy.github.io/rsschool-cv/cv
-https://AlexVisotskiy.github.io/rsschool-cv/
+https://github.com/AlexVisotskiy/rsschool-cv/blob/rsschool-cv-html/index.html
