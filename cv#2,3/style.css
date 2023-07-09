@@ -1,0 +1,11 @@
+.header {
+    display: flex;
+    background-color: black;
+    height: 100px;
+    width: 100%;
+    padding: 0 15px;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
