@@ -43,7 +43,7 @@ a {
 .menu-item:last-child {
     margin-right: unset;
 }
-.about {
+.title {
     margin-top: 50px;
 }
 .about-wrapper {
