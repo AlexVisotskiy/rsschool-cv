@@ -17,45 +17,167 @@
                             <a class="menu__link" href="+79788707913">Contact me</a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu__link" href="#">Discord</a>
+                            <a class="menu__link" href="https://discordapp.com/users/alexvisotskiy">Discord</a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu__link" href="#">E-mail</a>
+                            <a class="menu__link" href="https://mail.google.com/mail/u/0/?pli=1#inbox">E-mail</a>
                         </li>
                         <li class="menu-item">
-                            <a class="menu__link" href="https://github.com/AlexVisotskiy">Git-hub</a>
+                            <a class="menu__link" href="https://github.com/AlexVisotskiy">GitHub</a>
                         </li>
                     </ul>
                 </nav>
             </div>
         </div>
     </header>
-    <div class="about">
-        <div class="container">
-            <div class="about-wrapper">
-                <div class="about-info">
-                    <h2 class="about-title title">About Me</h2>
-                    <hr>
-                    <p class="about-text">
-                        I am 32 years old, I work as a sales representative in a distribution company.
-                        I have ten years of experience in negotiating and closing new deals.
-                        My goal is to be front-end developer.
-                    </p>
-                    <p class="about-strength">
-                        My strengths:
-                    </p>
-                    <ul class="about-list list">
-                        <li class="list-item">excellent team worker</li>
-                        <li class="list-item">quick learning</li>
-                        <li class="list-item">stress resistance</li>
-                        <li class="list-item">firendly</li>
-                    </ul>
-                </div>
-                <div class="about-img">
-                    <img src="/img/photo.jpg" alt="AlexVisotskiy">
+    <main class="main">
+        <section class="about">
+            <div class="container">
+                <hr>
+                <div class="about-wrapper">
+                    <div class="about-info">
+                        <h2 class="about-title title">About Me</h2>
+                        <p class="about-text">
+                            I am 32 years old, I work as a sales representative in a distribution company.
+                            I have ten years of experience in negotiating and closing new deals.
+                            My goal is to be front-end developer.
+                        </p>
+                        <p class="about-strength">
+                            My strengths:
+                        </p>
+                        <ul class="about-list list">
+                            <li class="list-item">excellent team worker</li>
+                            <li class="list-item">quick learning</li>
+                            <li class="list-item">stress resistance</li>
+                            <li class="list-item">firendly</li>
+                        </ul>
+                    </div>
+                    <div class="about-img">
+                        <img src="./img/photo.jpg" alt="AlexVisotskiy" width="200" height="200">
+                    </div>
                 </div>
             </div>
+        </section>
+        <section class="skills">
+            <div class="container">
+                <hr>
+                <div class="skills-wrapper">
+                    <div class="skills-info">
+                        <h2 class="skills-title title">Skills</h2>
+                        <ul class="skills-list list">
+                            <li class="list-item">HTML</li>
+                            <li class="list-item">CSS</li>
+                            <li class="list-item">JavaScript(Basics)</li>
+                            <li class="list-item">GitHub</li>
+                        </ul>
+                    </div>
+                    <div class="skills-img">
+                        <img src="./img/skills.jpg" alt="skills" width="200" height="200">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="code">
+            <div class="container">
+                <hr>
+                <div class="code-wrapper">
+                    <div class="code-info">
+                        <h2 class="code-title">Code Example</h2>
+                        <p class="codewars">
+                            From CodeWars: Highest and Lowest.
+                            In this little assignment you are given a string of space separated numbers, 
+                            and have to return the highest and lowest number.
+                        </p>
+                        <p class="code-example">
+                            `function highAndLow(numbers){ const sorted = numbers.split(‘ ‘).map(n => parseInt(n)).sort((a, b)=>a-b);
+                            return ${sorted[sorted.length - 1]} ${sorted[0]}; } `
+                        </p>
+                    </div>
+                    <div class="code-img">
+                        <img src="./img/codewars.jpg" alt="codewars" width="200" height="200">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="projects">
+            <div class="container">
+                <hr>
+                <div class="projects-wrapper">
+                    <div class="projects-info">
+                        <h2 class="projects-title">My projects</h2>
+                        <ol class="list list-margin">
+                            <li class="list-item">
+                                <a href="https://github.com/AlexVisotskiy/car-from-USA">Car From USA</a>
+                            </li>
+                            <li class="list-item">
+                                <a href="https://github.com/AlexVisotskiy/relvise">Relvise</a>
+                            </li>
+                        </ol>
+                    </div>
+                    <div class="projects-img">
+                        <img src="./img/projects.jpg" alt="projects" width="200" height="200">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="education">
+            <div class="container">
+                <hr>
+                <div class="education-wrapper">
+                    <div class="education-info">
+                        <h2 class="education-title">Education</h2>
+                        <ul class="list list-margin">
+                            <li class="list-item">Sevastopol National Technical University</li>
+                            <li class="list-item">MathHub intensive</li>
+                            <li class="list-item">Self-education in youtube(Freelancer)</li>
+                            <li class="list-item">Netology courses: "Frontend-developer from 0 to middle" in process</li>
+                            <li class="list-item">RSSchool courses: "Stage 0" in process</li>
+                        </ul>
+                    </div>
+                    <div class="education-img">
+                        <img src="./img/education.png" alt="education" width="200" height="200">
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="languages">
+            <div class="container">
+                <hr>
+                <div class="languages-wrapper">
+                    <div class="languages-info">
+                        <h2 class="languages-title">Languages</h2>
+                        <ul class="list list-margin">
+                            <li class="list-item">Russian(native)</li>
+                            <li class="list-item">Ukrainian(native)</li>
+                            <li class="list-item">English(B1, B2 in process)</li>
+                        </ul>
+                    </div>
+                    <div class="languages-img">
+                        <img src="./img/languages.jpg" alt="languages" width="200" height="200">
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-wrapper">
+                <ul class="menu-list">
+                    <li class="menu-item">
+                        <a class="menu-link" href="https://rs.school/js/">RS-Courses</a>
+                    </li>
+                    <li class="menu-item">
+                        <a class="menu-link" href="https://github.com/AlexVisotskiy">My GitHub</a>
+                    </li>
+                    <li class="menu-item">
+                        <div class="menu-img">
+                            <img src="./img/rs_school_js.svg" alt="RS-logo" width="80" height="80">
+                        </div>
+                    </li>
+                    <li class="menu-item"> 2023</li>
+                </ul>
+            </div>
         </div>
-    </div>
+    </footer>
 </body>
 </html>
